@@ -1,0 +1,11 @@
+pykernel
+ipywidgets
+numpy
+#scipy
+matplotlib
+plotly
+#polars
+pandas
+rich
+ruff
+flit
